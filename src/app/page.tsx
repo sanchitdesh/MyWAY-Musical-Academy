@@ -3,7 +3,6 @@ import HeroSection from "@/components/HeroSection";
 import HoverEffects from "@/components/HoverEffects";
 import InfiniteMoveCards from "@/components/InfiniteMoveCards";
 import Instructors from "@/components/Instructors";
-import Wavy_Bg from "@/components/Wavy_Bg";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
 export default function Home() {
