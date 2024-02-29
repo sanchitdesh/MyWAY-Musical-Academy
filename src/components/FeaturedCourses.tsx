@@ -8,7 +8,7 @@ import { Button } from "./ui/moving-border";
 interface Course {
   id: number;
   title: string;
-  slug: "guitar-fundamentals";
+  slug: string;
   description: string;
   price: number;
   instructor: string;
